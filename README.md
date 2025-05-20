@@ -24,8 +24,12 @@
 ---
 
 ## 디렉토리 구조
-├── data/ # 분석에 사용되는 엑셀 데이터 파일
-├── fonts/Nanum_Gothic/ # 한글 폰트 파일 (Nanum Gothic)
-├── app.py # Streamlit 메인 앱 코드
-├── requirements.txt # 프로젝트에 필요한 패키지 리스트
-├── README.md # 프로젝트 설명 파일 (이 문서)
+```
+├── data/                # 분석에 사용되는 엑셀 데이터 파일
+├── fonts/               # 한글 폰트 파일 폴더
+│   └── Nanum_Gothic/    # Nanum Gothic 폰트 파일
+├── app.py               # Streamlit 메인 앱 코드
+├── requirements.txt     # 프로젝트에 필요한 패키지 리스트
+└── README.md            # 프로젝트 설명 파일 (이 문서)
+```
+
